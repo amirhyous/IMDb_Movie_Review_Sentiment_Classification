@@ -1,4 +1,4 @@
-# IMDb_Movie_Review_Sentiment_Classification
+# IMDb Movie Review Sentiment Classification
 
 This project focuses on classifying IMDb movie review comments using both traditional machine learning techniques and Large Language Models (LLMs). The dataset provided contains user reviews from IMDb and includes both labeled and unlabeled data. The goal is to train models to classify the sentiment of these reviews, either as positive or negative, and to experiment with different data augmentation and label propagation methods.
 
